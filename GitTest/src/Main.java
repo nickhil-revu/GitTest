@@ -7,7 +7,7 @@ public class Main {
 
 		System.out.println("Hello * World");
 
-		System.out.println("child 1");
+		System.out.println("child 1a");
 
 		System.out.println(" child 2");
 
