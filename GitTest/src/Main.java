@@ -7,5 +7,6 @@ public class Main {
 		System.out.println("Hello * World"); 
 		System.out.println("one");
 		System.out.println("two");
+		System.out.println("three");
 	}
 }
